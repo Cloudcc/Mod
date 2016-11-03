@@ -26,7 +26,7 @@ import net.minecraftforge.fml.common.registry.EntityRegistry;
 
 
 @Mod(modid = Reference.MOD_ID, version = Reference.VERSION, acceptedMinecraftVersions = Reference.ACCEPTED_VERSIONS)
-public class Terrariacraft //GG
+public class Terrariacraft //GGg
 {
 
 
